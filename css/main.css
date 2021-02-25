@@ -152,6 +152,10 @@ body {
   margin-bottom: 20px;
 }
 
+.space-p {
+  margin: 5px;
+}
+
 .title {
   font-size: 120px;
   font-weight: bold;
